@@ -19,7 +19,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Build out the project to the designs provided
 
 ### Screenshot
-![alt text](image.png)
+![Screenshot 2025-06-10 174111](https://github.com/user-attachments/assets/d7564619-236c-47dc-997c-155dbd69ed1c)
 
 ### Links
 
