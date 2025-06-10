@@ -112,3 +112,16 @@ main > div:last-child > div:last-of-type div p:last-of-type {
     color: hsl(227, 10%, 46%);
     letter-spacing: 1.2px;
 }
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+.attribution a {
+    color: black;
+}
